@@ -3,8 +3,8 @@ Foundations - Low-level programming & Algorithm ― Hatching out
 by Julien Barbier, co-founder at Holberton School.
 
 ## Resources
-*[Secrets of printf in C.](https://youtu.be/VPFF_Bfuvks)
-*[anthor one](https://youtu.be/dG8PV6xqm4s)
+* [Secrets of printf in C.](https://youtu.be/VPFF_Bfuvks)
+* [anthor one](https://youtu.be/dG8PV6xqm4s)
 
 ## Background Context
 * Write your own `printf` function.
